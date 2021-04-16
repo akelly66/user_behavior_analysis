@@ -1,6 +1,5 @@
 
-# Project Name
-User Behavior Analysis
+# Botmock User Behavior Analysis
 
 #### -- Project Status: Active
 
@@ -30,7 +29,7 @@ As engineers, product managers, and marketers, we know our product's value propo
 
 The goal of this project is to turn usage data into something tangible and actionable. It's not just about *what* the magic moment is for the user but *when* and *how*. A common example is Facebook-- their growth team mined and analyzed user data to identify that users find value in their product when they connect with ten friends within seven days.
 
-	!(/images/facebook-aha.png)
+	!(images/facebook-aha.png)
 
 The illustration above shows the sweet spot between users who performed the action and retained vs. users who retained that performed the action. This is the tipping point for most users-- when the *what* becomes the *how many*. After finding out *when* the user must perform the action, we'll run validation tests and experiments to prove our hypothesis.
 
